@@ -10,8 +10,6 @@ Data set has 9,272 rows and 7 columns. The figure below shows a sample of what t
 
 ---
 
----
-
 
 ### <span style="color:grey">Blanks And #REF
 

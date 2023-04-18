@@ -12,7 +12,7 @@
 This dataset provides an in-depth look at the profitability of e-commerce sales. It contains data on a variety of sales channels, including Shiprocket and INCREFF, as well as financial information on related expenses and profits. The columns contain data such as SKU codes, design numbers, stock levels, product categories, sizes and colors. In addition to this we have included the MRPs across multiple stores like Ajio MRP , Amazon MRP , Amazon FBA MRP , Flipkart MRP , Limeroad MRP Myntra MRP and PaytmMRP along with other key parameters like amount paid by customer for the purchase , rate per piece for every individual transaction Also we have added transactional parameters like Date of sale months category fulfilledby B2b Status Qty Currency Gross amt . This is a must-have dataset for anyone trying to uncover the profitability of e-commerce sales in today's marketplace
 
 ---
-## hOW TO USE THE DATASET
+## How to use the dataset
 This dataset provides a comprehensive overview of e-commerce sales data from different channels covering a variety of products. Using this dataset, retailers and digital marketers can measure the performance of their campaigns more accurately and efficiently.
 
 The following steps help users make the most out of this dataset:
@@ -28,3 +28,16 @@ The following steps help users make the most out of this dataset:
 * Finally Use Overall ‘Stock’ details along all the P & L Data including Yearly Expenses_IIGF information record for takeaways which might be aimed towards essential cost cutting measures like switching amongst delivery options carefully chosen out of Shiprocket & INCREFF leadings away from manual inspections catering savings under support personnel outsourcing structures.?  
 
 * By employing a comprehensive understanding on how our internal subsidiaries perform globally unless attached respective audits may provide us remarkably lower operational costs servicing confidence; costing far lesser than being incurred taking into account entire pallet shipments tracking sheets representing current level supply chains efficiencies achieved internally., then one may finally scale profits exponentially increases cut down unseen losses followed up introducing newer marketing campaigns necessarily tailored according playing around multiple goods based spectrums due powerful backing suitable transportation boundaries set carefully
+
+---
+## Reasearch ideas
+
+* Analysing the difference in profitability between sales made through Shiprocket and INCREFF. This data can be used to see where the biggest profit margins lie, and strategize accordingly.
+* Examining the Complete Cost structure of a product with all its components and their contribution towards revenue or profitability, i.e., TP 1 & 2, MRP Old & Final MRP Old together with Platform based MRP - Amazon, Myntra and Paytm etc., Currency based Profit Margin etc.
+* Building a predictive model using Machine Learning by leveraging historical data to predict future sales volume and profits for e-commerce products across multiple categories/devices/platforms such as Amazon, Flipkart, Myntra etc as well providing more insights on customers’ preferences over time to understand demand variations by taking into account features such as Size/Color/Platform specific pricing etc
+
+---
+## Acknowledgment
+
+If you use this dataset in your research, please credit the original authors.
+[Data source](https://data.world/anilsharma87)

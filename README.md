@@ -1,7 +1,13 @@
 # FSDB Project 1: E-commerce Data-Driven-Solutions Based on Kaggle Dataset
 
-dataset source: [Kaggle Data Link](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
+* dataset source (kaggle): [Kaggle Data Link](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
 
+* dataset source (other): [other Data Link](https://data.world/anilsharma87)
+
+* main task: Analyzing and Maximizing Online Business Performance
+* brief and data provided by Anil on Kaggle.
+
+<br>
 ---
 
 ## <span style="color:grey"> Project Sprint Timeline 1
@@ -17,6 +23,10 @@ dataset source: [Kaggle Data Link](https://www.kaggle.com/datasets/thedevastator
   - nkeme
   - wendii_king
   
+* Stakeholders:
+  - Kaggle
+  - Anil S.
+  - FSDB Group
  
 
 ---
@@ -57,6 +67,8 @@ dataset source: [Kaggle Data Link](https://www.kaggle.com/datasets/thedevastator
   * sub-task (DSPM-27) [discovery/objective] What are our future sales for each channel based on the sales and/or how profitable each product is?.
   
   * sub-task (DSPM-28) [discovery/objective] What are some cost cutting measures that could help the business?.
+  
+  * main sub-task (DSPM-35) [discovery/objective] Analyzing and Maximizing Online Business Performance
 
 <br>
  

@@ -4,7 +4,7 @@ Dataset source: ![Kaggle Data Link](https://www.kaggle.com/datasets/thedevastato
 
 ---
 
-Data set has 9,272 rows and 7 columns. The figure below shows a sample of what the data in the first five rows were. The header title for the columns are 
+Data set has 9,272 rows including the header row and 7 columns. The figure below shows a sample of what the data in the first five rows were. The header title for the columns are 
 * Index: starting from 0
 * SKU code: Stocck keeping unit code
 * Design no: design type

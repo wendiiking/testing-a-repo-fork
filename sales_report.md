@@ -22,7 +22,7 @@ Data set has 9,272 rows and 7 columns. The figure below shows a sample of what t
 
 --- 
 
-After going through the dataset, I noticed that there were some blank columns at the end and some of the columns had the #REF error in them and some of the had free written under the size column.
+After going through the dataset, I noticed that there were some blank columns at the end and some of the columns had the #REF error in them and some of them had free written under the size column.
  
 <img src="https://user-images.githubusercontent.com/74875008/232816378-da266c76-25f5-400c-83cd-e402ee37e6ce.png" alt="Github" width="500" height="300"/>
 
@@ -32,7 +32,7 @@ After going through the dataset, I noticed that there were some blank columns at
 ---
 
 ### <span style="color:grey"> Cleaned dataset
-So I cleaned up the dataset by converting the portion of the file holding the data to a table with headers. I changed the font style and size them made the header to be bold so it would be easier to understand. I used the drop down arrowon the table header to fiilter out the blanks and errors.
+So I cleaned up the dataset by converting the portion of the file holding the data to a table with headers. I changed the font style and size them made the header to be bold so it would be easier to understand. I used the drop down arrow on the table header to filter out the blanks and errors. Before filtering, the number of selected cells that contains data were 64,616 cells and after filtering it dropped down to 64,204 therefore a total of 412 cells were filtered out either due to containing blanks or errors in them.
  
 <img src="https://user-images.githubusercontent.com/74875008/232810708-9d3c5d6c-ff6e-4538-83ea-88a61d4fa0a4.png" alt="Github" width="500" height="300"/>
 
@@ -41,7 +41,7 @@ So I cleaned up the dataset by converting the portion of the file holding the da
 ### Header meanings
 
 * **Index**: starting from 0. Just goes to show how the items were itemized and recorded.
-* **SKU code**: Stocck keeping unit code which is a combination of the design no, size and color.
+* **SKU code**: stock keeping unit code which is a combination of the design no, size and color.
 * **Design no**: design type. different items have different designs so similar designs where grouped.
 * **Stock**: how many of it is available
 * **Category**: type of item. The categories were as follows;
@@ -65,7 +65,7 @@ So I cleaned up the dataset by converting the portion of the file holding the da
   * Sharara
   * Skirt
   * Top
-  * Top
+  * Tunic
 * **Size**: size of the item. The sizes were as follows;
   * XS
   * S

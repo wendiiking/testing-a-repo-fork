@@ -10,4 +10,5 @@ Done it. It pulls new changes from main repo and adds them to my forked repo.
 ---
 ### Testing how to contribute to main repo 
 ---
-Done it. It pushes new changes from my forked repo to the main repo by opening a pull request and waiting for review and approval by owners of the main repo.
+Done it. It pushes new changes from my forked repo to the main repo by opening a pull request and waiting for file review and approval by owners of the main repo.
+

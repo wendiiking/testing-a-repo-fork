@@ -1,4 +1,4 @@
-### Kaggle business brief
+### Kaggle Business Brief
 ---
 
 ### Stakeholders: 

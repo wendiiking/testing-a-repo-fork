@@ -1,6 +1,8 @@
 ### Testing how to create a fork
 ---
-Done it.
+Done it. Wendy tested how to for a repo into her personal GitHub.
+It created a copy of the main branch from the FSDB e-commerce project repo as a new repo of Wendy's in her personal GitHub.
+
 
 ---
 ### Testing how to sync fork repo with the main repo that it was cloned from
